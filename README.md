@@ -1,2 +1,5 @@
-# verificar-cual-de-dos-n-meros-es-el-mayor
-verificar cual de los números es el mayor
+# Verificar cual de dos numeros es el mayor
+
+# Diagrama de Flujo
+
+![](diagrama.png "diagrama de flujo")
